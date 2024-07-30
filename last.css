@@ -1,0 +1,12 @@
+.first{ background-color: blue;
+     color: aliceblue;
+     padding-left: 4px; 
+     padding-right: 3cm;
+     margin-top: 2cm;
+     box-sizing: border-box;
+     border-color: black;
+     border-top: 1cm;
+     border-bottom: 3cm;
+    
+    }
+h2{ background-color: chartreuse;}
