@@ -1,16 +1,17 @@
 .first { background-color: green;
 color: black;
 border-style: solid;
-border-color: black;
+border-color: blue;
 border-width: 5px;
 border-radius: 10px;
 margin: 4cm;
 
 }
-.question { background-color: blue;
+.question { 
     color: azure;
+    background-color: blue;
     border-style: solid;
-     border-color: black;
+     
     border-width: 5px;
     border-radius: 10px;
     margin: 15px;
