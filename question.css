@@ -1,0 +1,26 @@
+.first { background-color: green;
+color: black;
+border-style: solid;
+border-color: black;
+border-width: 5px;
+border-radius: 10px;
+margin: 4cm;
+
+}
+.question { background-color: blue;
+    color: azure;
+    border-style: solid;
+     border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 15px;
+    
+}
+.Answer { background-color: black;
+    color: green;
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+    border-radius: 10px;
+}
+body { background-image: url( backgroung.jpg);}
