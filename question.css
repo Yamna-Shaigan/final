@@ -1,27 +1,33 @@
 .first { background-color: green;
 color: black;
 border-style: solid;
-border-color: blue;
-border-width: 5px;
+border-color: black;
+border-width: 10px;
 border-radius: 10px;
 margin: 4cm;
+
 
 }
 .question { 
     color: azure;
     background-color: blue;
     border-style: solid;
+    border-color:rgb(12, 8, 8);
      
     border-width: 5px;
-    border-radius: 10px;
+    border-radius: 5px;
     margin: 15px;
+    padding-left: 25px;
     
 }
-.Answer { background-color: black;
-    color: green;
+.Answer { background-color: green;
+    color: black;
     border-style: solid;
-    border-color: green;
+    border-color: rgb(24, 24, 110);
     border-width: 5px;
-    border-radius: 10px;
+    border-radius: 5px;
+    padding-left: 15px;
+    
+    
 }
 body { background-image: url( backgroung.jpg);}
