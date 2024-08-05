@@ -1,0 +1,58 @@
+
+
+body { 
+border-style: solid;
+border-radius: 5px;
+border-color: black;
+border-width: 5px;
+background-color: rgb(45, 133, 187);
+}
+.kids { border-style: solid;
+    border-radius: 5px;
+    border-color:chartreuse;
+    border-width: 10px;
+    
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    }
+
+
+
+
+
+.first { background-color: rgb(2, 24, 37);
+    color: rgb(128, 255, 0);
+    margin-top: 30px ;
+    margin-right: 220px;
+    margin-bottom: 30px;
+    margin-left: 220px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: chartreuse;
+    
+}
+.second { background-color: chartreuse;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+margin-right: 140px;
+margin-left: 140px;
+    
+}
+.third { background-color: skyblue;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
