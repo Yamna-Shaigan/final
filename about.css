@@ -1,0 +1,107 @@
+body { background-color: rgb(170, 231, 170);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: black;
+}
+.first{ background-color: rgb(85, 158, 204);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: blue;
+    color: black;
+    margin-top: 20px;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+.second { background-color: lightskyblue;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: blue;
+    color: blue;
+    
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    font-size: larger;
+}
+.third { background-color: rgb(70, 107, 70);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: rgba(26, 48, 2, 0.842);
+    margin-right: 220px;
+    margin-left: 220px;
+}
+.fourth { color: rgb(6, 24, 6);
+    background-color: rgb(96, 153, 96);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: rgb(4, 34, 4);
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    font-size: larger;
+}
+.final { width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.box { width: 200px;
+    height: 200px;
+    background-color: lightskyblue;
+    color: blue;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: blue;
+    
+    text-align: center;
+    line-height: 25px;
+    margin: 40px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.term { background-color: rgb(85, 158, 204);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: blue;
+    color: black;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+.picture { 
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 10px;
+    border-color: chartreuse;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+
+
+
+}
