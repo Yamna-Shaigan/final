@@ -1,41 +1,59 @@
-.first { background-color: rgb(36, 129, 36);
-color: black;
+body { background-color:lightgoldenrodyellow;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: black;
+}
+.first { background-color: rgb(146, 144, 144);
+color: blue;
 border-style: solid;
-border-color: black;
-border-width: 10px;
+border-color: blue;
+border-width: 8px;
 border-radius: 10px;
-margin: 30px;
-padding-left: 20px;
-padding-right: 25px;
-margin-left: 20px;
-margin-right: 20px;
-width: 15cm
-
+margin-top: 30px;
+margin-right: 200px;
+margin-bottom: 30px;
+margin-left: 200px;
+}
+.faq { border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: rgb(0, 157, 255);
 }
 .question { 
-    color: azure;
-    background-color: lightskyblue
+    color:rgb(0, 157, 255);
+    background-color: black;
     border-style: solid;
-    border-color:rgb(12, 8, 8);
-     
-    border-width: 5px;
     border-radius: 5px;
-    margin: 25px;
-    padding-left: 30px;
-    margin-left: 35px;
-    margin-right: 35px;
+    border-color: blue;
+    border-width: 5px;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    padding-left: 50px;
+    letter-spacing: 2px;
+
+    
+    
+
+    
     
 }
-.Answer { background-color: rgb(86, 192, 86);
-    color: black;
+.Answer { background-color: lightblue;
+    color:blue;
     border-style: solid;
-    border-color: rgb(24, 24, 110);
+    border-color: blue;
     border-width: 5px;
     border-radius: 5px;
     padding-left: 15px;
-    margin-left: 30px;
-    margin-right: 30px;
-    
-    
+       margin-right: 30px;
+       margin-bottom: 20px;
+       margin-left: 30px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    line-height: 30px;
+    letter-spacing: 1px;
 }
-body { background-image: url( backgroung.jpg);}
