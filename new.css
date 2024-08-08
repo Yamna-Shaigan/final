@@ -95,7 +95,7 @@ padding-left: 70px;
     border-width: 5px;
     border-color: purple;
     margin-top: 30px;
-    margin-right: 300px;
+    margin-right: 30px;
     margin-bottom: 90px;
     margin-left: 30px;
     padding-top: 20px;
@@ -142,7 +142,7 @@ padding-left: 70px;
     border-radius: 5px;
     border-width: 5px;
     margin-top: 30px;
-    margin-right: 300px;
+    margin-right: 30px;
     margin-bottom: 30px;
     margin-left: 10px;
     padding-top: 10px;
@@ -218,13 +218,23 @@ padding-left: 70px;
     padding-left: 10px;
  }
  .eighteen { 
-    
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 240px;
  }
 .publicspeaking { 
-    position: relative;
-    left: 750px;
-    bottom: 300px;
-    right: px;
+    top: 500px;
+
 }
 .picture { 
     position: relative;
@@ -243,11 +253,8 @@ padding-left: 70px;
     color: blue;
     margin-right: 300px;
 }
-.cide { 
-    position: relative;
-    left: 700px;
-    bottom: 250px;
-}
+
+
 .nine { 
     background-color: plum;
     color:purple ;
@@ -286,4 +293,10 @@ padding-left: 70px;
     border-radius: 2px;
     border-width: 5px;
     border-color: purple;
+}
+.all {
+    border-color: red blue purple;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 5px;
 }
